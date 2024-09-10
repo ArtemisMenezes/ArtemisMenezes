@@ -1,16 +1,24 @@
-## Hi there 👋
+<div align="center">  
 
-<!--
-**ArtemisMenezes/ArtemisMenezes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Welcome to My Github! 💫
 
-Here are some ideas to get you started:
+</div>
+ <br>
+<img " width=100% height=400px alt="dois gatos deitados em uma escrivaninha de estudos" src="https://github.com/user-attachments/assets/cac9ec41-2a61-4345-8f98-7424988a1ad6">
+<div align="center">  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Skills ⚡️
+
+</div>
+
+
+<div align="center">  
+
+# Sobre mim 🧩
+
+</div>
+<div align="center">  
+
+# Contatos 📩
+
+</div>
