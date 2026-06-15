@@ -4,19 +4,12 @@
 <br>
 
 # 👩‍🎓 About me
-<div width=42% >    <p>Digital Systems and Media student passionate about technology<br>Backend developer and Data analyst enthusiast<p>
+<div width=42% >    <p><p>
 <a href="https://www.linkedin.com/in/%C3%A1rtemis-castelo-969536218?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
 <img  justify-content="center" align-items="space-between"  width=100px height=100px alt="Link do meu Linkedin" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" />
 </a>
-<a href="https://www.behance.net/rtemiscastelo">
- <img "justify-content="center" align-items="space-between" width=100px height=100px alt="Link do meu behance" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/behance/behance-original-wordmark.svg" />
-</a>
 </div>
-
-
 <br>
-
-
 # Technology Stack ⚡️
 
 <div>
