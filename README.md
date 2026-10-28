@@ -2,7 +2,7 @@
 
 I'm a Systems and Digital Media undergraduate at the Federal University of Ceará (UFC), Brazil, and a **Data Analyst at Pluben**, where I work with data, artificial intelligence, and large language models.
 
-I'm seeking **internship opportunities in Data Engineering, AI Engineering, and ML/LLMs** in Brazil and the United States.
+I'm seeking **internship opportunities in Data Engineering, AI Engineering, and ML/LLMs**
 
 ## Experience
 
