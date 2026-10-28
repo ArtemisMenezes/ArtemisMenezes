@@ -1,41 +1,59 @@
+# Hi, I'm Ártemis Menezes Castelo
 
-# Hey, Ártemis here 🐈
+I'm a Systems and Digital Media undergraduate at the Federal University of Ceará (UFC), Brazil, and a **Data Analyst at Pluben**, where I work with data, artificial intelligence, and large language models.
 
-# Sobre mim
-<div width=42% >    <p>
- Atualmente atuo como bolsista no desenvolvimento de aplicações utilizando Flutter e Dart, participando da criação de interfaces, prototipação de funcionalidades e validação de soluções com dados simulados. Paralelamente, estou aprofundando meus estudos em Inteligência Artificial, com foco em Large Language Models (LLMs), Machine Learning, engenharia de prompts e integração de APIs de IA.
+I'm seeking **internship opportunities in Data Engineering, AI Engineering, and ML/LLMs** in Brazil and the United States.
 
-Tenho interesse em desenvolver soluções que utilizem IA para automação, análise de dados e criação de aplicações inteligentes, explorando desde a integração com modelos generativos até o processamento e manipulação de dados em ambientes reais.
+## Experience
 
- <p>
-  <br>
-<a href="https://www.linkedin.com/in/%C3%A1rtemis-castelo-969536218?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
-<img  justify-content="center" align-items="space-between"  width=100px height=100px alt="Link do meu Linkedin" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" />
-</a>
-</div>
-<br>
+**Data Analyst — Pluben · Current**
 
-# Stacks
+My experience includes Python, SQL, PySpark, ETL workflows, Power BI, and integrations with the Claude and Gemini APIs, as well as Supabase and Neon.
 
-<div>
-  <img alt="JavaScript Icon" style="margin: 20px;" width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img alt="Node.js Icon" style="margin: 20px;" width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
- <img alt="Python Icon" style="margin: 20px;" width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
- <img alt="Pandas Icon" style="margin: 20px;" width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />
- <img alt="Postgresql Icon" style="margin: 20px;" width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
- <img alt="React Icon" style="margin: 20px;" width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
- <img alt="Flutter Icon" style="margin: 20px;" width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
- <img alt="FastApi Icon" style="margin: 20px;" width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" />
-        
-</div>
+**Frontend Developer — Macamu · Completed project**
 
- <br>
+Contributed to a Flutter/Dart application that has been completed and published. My work included frontend development, unit tests, interviews with physicians for UX research, UX questionnaires, and contributions to UX/UI screens.
 
-<h2 align="center"> GitHub Stats</h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemisMenezes" alt="Top Langs" />
-</div>
+## Technologies I've Worked With
 
+- **Data:** Python, SQL, PySpark, PostgreSQL, BigQuery, Power BI
+- **AI integrations:** Claude API, Google Gemini API
+- **Application development:** Flask, React, TypeScript, Flutter, Dart
+- **Tools and platforms:** Git, Docker, Supabase, Neon, Figma
 
- 
+## Selected Projects
+
+### [Dailee — AI Assistant for Special Education Teachers](https://github.com/ArtemisMenezes/botDailee)
+
+An educational AI prototype built with React, Flask, and the Gemini API. Generates progress report drafts from student observations and displays tag frequency statistics. Tested with fictional student records.
+
+### [Marketing Agency Database](https://github.com/ArtemisMenezes/bd-agenciaMarketing)
+
+An academic database project covering conceptual and relational modeling, PostgreSQL scripts, SQL queries, and a web application connected through a Python/Flask API.
+
+### [Distributed Calculator](https://github.com/ArtemisMenezes/calculadora-jsonrpc-rest)
+
+A Python client-server calculator using JSON-RPC 2.0 and HTTP endpoints, with expression parsing, error handling, retry logic, and automated tests.
+
+### [LeadSearch — Technical Case Study](https://github.com/ArtemisMenezes/LeadSearch-portfolio)
+
+A portfolio overview of an ongoing commercial platform for company discovery and lead management. Documents the product and technical approach; the implementation is proprietary.
+
+## Planned Projects
+
+My upcoming portfolio work focuses on:
+
+- An ELT pipeline using Brazilian company registry data, BigQuery, and dbt.
+- An orchestrated pipeline using Airflow, Docker, and GitHub Actions.
+- LoRA fine-tuning of a small language model, with publication on Hugging Face.
+- A text-to-SQL assistant using the Claude API, with validation and evaluation.
+
+These projects are planned and are not yet presented as completed work.
+
+## Contact
+
+- [LinkedIn](https://www.linkedin.com/in/artemis-castelo1/)
+- [Email](mailto:artemismenezes.castelo@gmail.com)
+
+**Languages:** Portuguese and English (B2).
 
