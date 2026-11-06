@@ -1,11 +1,9 @@
 <h1 align="center">Ártemis Menezes Castelo</h1>
 
 <p align="center">
-  <b>Generative AI Intern | Data & AI</b><br>
-  Python · SQL · LLMs (Claude, Gemini) · AI Agents
+   Python · SQL · LLMs  · AI Agents
 </p>
 
-<p align="center">📍 Fortaleza, Brazil · Remote / Hybrid</p>
 
 ---
 
