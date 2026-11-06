@@ -1,59 +1,51 @@
-# Hi, I'm Ártemis Menezes Castelo
+<h1 align="center">Ártemis Menezes Castelo</h1>
 
-I'm a Systems and Digital Media undergraduate at the Federal University of Ceará (UFC), Brazil, and a **Data Analyst at Pluben**, where I work with data, artificial intelligence, and large language models.
+<p align="center">
+  <b>Generative AI Intern | Data & AI</b><br>
+  Python · SQL · LLMs (Claude, Gemini) · AI Agents
+</p>
 
-I'm seeking **internship opportunities in Data Engineering, AI Engineering, and ML/LLMs**
+<p align="center">📍 Fortaleza, Brazil · Remote / Hybrid</p>
 
-## Experience
+---
 
-**Data Analyst — Pluben · Current**
+## About me
 
-My experience includes Python, SQL, PySpark, ETL workflows, Power BI, and integrations with the Claude and Gemini APIs, as well as Supabase and Neon.
+Undergraduate student in Digital Systems and Media at the Federal University of Ceará (expected graduation: 06/2028), with hands-on experience in generative AI, data engineering, and product development.
 
-**Frontend Developer — Macamu · Completed project**
+At **Pluben**, I integrate the **Claude** and **Google Gemini** APIs into real business workflows to automate sales reporting and commercial communication, build **ETL pipelines with Python and SQL**, and migrated the company's data to the cloud (**Supabase** and **Neon**). I also build **BDR and Hunter AI agents** there, and I am working on an undergraduate research project in Machine Learning at UFC.
 
-Contributed to a Flutter/Dart application that has been completed and published. My work included frontend development, unit tests, interviews with physicians for UX research, UX questionnaires, and contributions to UX/UI screens.
+I'm looking for a GenAI internship where I can combine Python, data, and LLMs to build useful and reliable systems.
 
-## Technologies I've Worked With
+## What I'm working on
 
-- **Data:** Python, SQL, PySpark, PostgreSQL, BigQuery, Power BI
-- **AI integrations:** Claude API, Google Gemini API
-- **Application development:** Flask, React, TypeScript, Flutter, Dart
-- **Tools and platforms:** Git, Docker, Supabase, Neon, Figma
+- 🤖 **Pluben:** BDR and Hunter AI agents, LLM-powered automations (Claude and Gemini), data pipelines, and a low-code CRM platform.
+- 🔬 **Undergraduate Research (2026, ongoing):** how measurement failures affect the robustness of Machine Learning models for energy consumption forecasting, using Python, data engineering, and time-series analysis.
+- 🏥 **Macamu (UFC):** a healthcare platform that helps physicians with documentation and triage for organ donors, built with Flutter/Dart. [ONGOING or UNTIL 11/2026 — CONFIRM]
 
-## Selected Projects
+## Featured projects
 
-### [Dailee — AI Assistant for Special Education Teachers](https://github.com/ArtemisMenezes/botDailee)
+| Project | What it does | Stack |
+|---|---|---|
+| [botDailee](https://github.com/ArtemisMenezes/botDailee) | AI assistant for special-education teachers: generates written summaries from students' monthly progress data | React · Google Gemini API |
+| [AI AGENT NAME — REPLACE](https://github.com/ArtemisMenezes/REPOSITORY-NAME) | [ONE LINE: what the agent does] | [STACK] |
+| [biblioteca-sql](https://github.com/ArtemisMenezes/biblioteca-sql) | Relational database study project in SQL | SQL |
 
-An educational AI prototype built with React, Flask, and the Gemini API. Generates progress report drafts from student observations and displays tag frequency statistics. Tested with fictional student records.
+> Pluben projects are internal to the company and are not public.
 
-### [Marketing Agency Database](https://github.com/ArtemisMenezes/bd-agenciaMarketing)
+## Tech stack
 
-An academic database project covering conceptual and relational modeling, PostgreSQL scripts, SQL queries, and a web application connected through a Python/Flask API.
+![Data](https://skillicons.dev/icons?i=python,postgres,supabase,powerbi&theme=dark)
+![Web and Mobile](https://skillicons.dev/icons?i=js,ts,nodejs,react,flutter,dart,flask&theme=dark)
+![Tools](https://skillicons.dev/icons?i=git,github,figma&theme=dark)
 
-### [Distributed Calculator](https://github.com/ArtemisMenezes/calculadora-jsonrpc-rest)
-
-A Python client-server calculator using JSON-RPC 2.0 and HTTP endpoints, with expression parsing, error handling, retry logic, and automated tests.
-
-### [LeadSearch — Technical Case Study](https://github.com/ArtemisMenezes/LeadSearch-portfolio)
-
-A portfolio overview of an ongoing commercial platform for company discovery and lead management. Documents the product and technical approach; the implementation is proprietary.
-
-## Planned Projects
-
-My upcoming portfolio work focuses on:
-
-- An ELT pipeline using Brazilian company registry data, BigQuery, and dbt.
-- An orchestrated pipeline using Airflow, Docker, and GitHub Actions.
-- LoRA fine-tuning of a small language model, with publication on Hugging Face.
-- A text-to-SQL assistant using the Claude API, with validation and evaluation.
-
-These projects are planned and are not yet presented as completed work.
+**AI & LLMs:** Claude · Google Gemini · LLM API integration · AI agents · prompt engineering
+**Data:** Python · SQL · PostgreSQL · ETL · data modeling · time-series analysis · Power BI
+**Cloud & databases:** Supabase · Neon
+**Backend & frontend:** Node.js · Flask · REST APIs · React · Flutter · Dart · JavaScript · TypeScript
+**Product:** UX Research · Figma · Design Systems · Scrum · Kanban
 
 ## Contact
 
-- [LinkedIn](https://www.linkedin.com/in/artemis-castelo1/)
-- [Email](mailto:artemismenezes.castelo@gmail.com)
-
-**Languages:** Portuguese and English (B2).
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artemiscastelo1)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:artemismenezes.castelo@gmail.com)
