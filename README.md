@@ -21,16 +21,6 @@ I'm looking for a GenAI internship where I can combine Python, data, and LLMs to
 - 🔬 **Undergraduate Research (2026, ongoing):** how measurement failures affect the robustness of Machine Learning models for energy consumption forecasting, using Python, data engineering, and time-series analysis.
 - 🏥 **Macamu (UFC):** a healthcare platform that helps physicians with documentation and triage for organ donors, built with Flutter/Dart. [ONGOING or UNTIL 11/2026 — CONFIRM]
 
-## Featured projects
-
-| Project | What it does | Stack |
-|---|---|---|
-| [botDailee](https://github.com/ArtemisMenezes/botDailee) | AI assistant for special-education teachers: generates written summaries from students' monthly progress data | React · Google Gemini API |
-| [AI AGENT NAME — REPLACE](https://github.com/ArtemisMenezes/REPOSITORY-NAME) | [ONE LINE: what the agent does] | [STACK] |
-| [biblioteca-sql](https://github.com/ArtemisMenezes/biblioteca-sql) | Relational database study project in SQL | SQL |
-
-> Pluben projects are internal to the company and are not public.
-
 ## Tech stack
 
 ![Data](https://skillicons.dev/icons?i=python,postgres,supabase,powerbi&theme=dark)
