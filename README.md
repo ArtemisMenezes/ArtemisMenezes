@@ -1,7 +1,8 @@
 <h1 align="center">Ártemis Menezes Castelo</h1>
 
 <p align="center">
-   Python · SQL · LLMs  · AI Agents
+  <b>Generative AI Intern | Data & AI</b><br>
+  Python · SQL · LLMs (Claude, Gemini) · AI Agents
 </p>
 
 
@@ -19,7 +20,16 @@ I'm looking for a GenAI internship where I can combine Python, data, and LLMs to
 
 - 🤖 **Pluben:** BDR and Hunter AI agents, LLM-powered automations (Claude and Gemini), data pipelines, and a low-code CRM platform.
 - 🔬 **Undergraduate Research (2026, ongoing):** how measurement failures affect the robustness of Machine Learning models for energy consumption forecasting, using Python, data engineering, and time-series analysis.
-- 🏥 **Macamu (UFC):** a healthcare platform that helps physicians with documentation and triage for organ donors, built with Flutter/Dart. [ONGOING or UNTIL 11/2026 — CONFIRM]
+## Featured projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| [botDailee](https://github.com/ArtemisMenezes/botDailee) | AI assistant for special-education teachers: generates written summaries from students' monthly progress data | React · Google Gemini API |
+| [MLdemo](https://github.com/ArtemisMenezes/MLdemo) | B2B prospecting demo with synthetic data, inspired by the platform I work on at Pluben: SQL-based ICP search and scoring, CRM, a rule-based follow-up Copilot, and a logistic regression model that finds companies similar to simulated customers | Python · FastAPI · SQLite · pandas · scikit-learn · JavaScript |
+| [biblioteca-sql](https://github.com/ArtemisMenezes/biblioteca-sql) | Relational database study project in SQL | SQL |
+| Macamu (UFC extension scholarship, completed) | Healthcare platform that helps physicians with documentation and triage for organ donors, from UX research and design system to a Flutter front-end with unit tests | Flutter · Dart · Figma |
+
+> Pluben projects are internal to the company and are not public.
 
 ## Tech stack
 
@@ -28,9 +38,9 @@ I'm looking for a GenAI internship where I can combine Python, data, and LLMs to
 ![Tools](https://skillicons.dev/icons?i=git,github,figma&theme=dark)
 
 **AI & LLMs:** Claude · Google Gemini · LLM API integration · AI agents · prompt engineering
-**Data:** Python · SQL · PostgreSQL · ETL · data modeling · time-series analysis · Power BI
+**Data:** Python · SQL · PostgreSQL · ETL · data modeling · pandas · scikit-learn · time-series analysis · Power BI
 **Cloud & databases:** Supabase · Neon
-**Backend & frontend:** Node.js · Flask · REST APIs · React · Flutter · Dart · JavaScript · TypeScript
+**Backend & frontend:** Node.js · Flask · FastAPI · REST APIs · React · Flutter · Dart · JavaScript · TypeScript
 **Product:** UX Research · Figma · Design Systems · Scrum · Kanban
 
 ## Contact
